@@ -1,0 +1,8 @@
+add a key and value to dictionary...
+dict = {"name": "ehsan", "Lname": "nemati", "country": "iran"}
+dict["country"] = "Germany"
+dict["city"] = "Hamburg"
+dict["gender"] = "male"
+print(dict)
+you can use this code and algorithm for add new key and new value to your dictionary.
+thanks =)
