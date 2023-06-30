@@ -1,0 +1,9 @@
+# Python code to merge dict using a single ... 
+dict1 = {"a": 12, "b": 13}
+dict2 = {"c": 14, "d": 15}
+dict3 = dict1.copy()
+for key, value in dict2.items():
+    dict3[key] = value
+print(dict3)
+#a code and algorythm to merge two or n dictionary for your work and excersizes ...
+##   thanks =)
